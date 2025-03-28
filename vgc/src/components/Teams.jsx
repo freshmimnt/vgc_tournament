@@ -25,7 +25,7 @@ export default function Teams(){
                         <p>Rental: 8FBMNP</p>
                     </li>
                     <li>
-                        <h3>Palafin</h3>
+                        <h3>Zero to Hero</h3>
                         <p>Paste: https://pokepast.es/b3bc22844432db97</p>
                         <p>Rental: 3WLDWS</p>
                     </li>
@@ -40,7 +40,7 @@ export default function Teams(){
                         <p>Rental: 9PJ0YV</p>
                     </li>
                     <li>
-                        <h3>Volcarona</h3>
+                        <h3>~Dance Moth</h3>
                         <p>Paste: https://pokepast.es/d3391cde37b9f122</p>
                         <p>Rental: L23PDL</p>
                     </li>
@@ -65,7 +65,7 @@ export default function Teams(){
                         <p>Rental: 9HJD9C</p>
                     </li>
                     <li>
-                        <h3>Vivillon</h3>
+                        <h3>VIVILLON!!!!!!!!</h3>
                         <p>Paste: https://pokepast.es/8e0c0f84c402caa4</p>
                         <p>Rental: 96JS1Y</p>
                     </li>
@@ -75,7 +75,7 @@ export default function Teams(){
                         <p>Rental: BL0XCR</p>
                     </li>
                     <li>
-                        <h3>Snorlax</h3>
+                        <h3>Big Guy</h3>
                         <p>Paste: https://pokepast.es/5c4073a0d3030102</p>
                         <p>Rental: BNNNNP</p>
                     </li>
@@ -85,7 +85,7 @@ export default function Teams(){
                 Clique aqui para ver os pairings: <Link to="/pairing" >Pairings</Link>
                 </p>
                 <p>
-                Clique aqui para ver os pairings: <Link to="/pairing" >Pairings</Link>
+                Clique aqui para ver os type matchups: <Link to="/matchups" >Type Matchups</Link>
                 </p>
             </div>
         </>
