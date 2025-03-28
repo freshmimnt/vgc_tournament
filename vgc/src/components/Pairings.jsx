@@ -1,3 +1,5 @@
+
+
 export default function Teams(){
     return(
         <>
@@ -9,12 +11,12 @@ export default function Teams(){
                 <tr>
                     <th>Company</th>
                     <th>Contact</th>
-                    <th>Country</th>
                 </tr>
+                
                 <tr>
                     <td>Alfreds Futterkiste</td>
                     <td>Maria Anders</td>
-                    <td>Germany</td>
+
                 </tr>
                 </table>
 

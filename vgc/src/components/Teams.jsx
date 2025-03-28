@@ -84,6 +84,9 @@ export default function Teams(){
                 <p>
                 Clique aqui para ver os pairings: <Link to="/pairing" >Pairings</Link>
                 </p>
+                <p>
+                Clique aqui para ver os pairings: <Link to="/pairing" >Pairings</Link>
+                </p>
             </div>
         </>
     );
