@@ -18,14 +18,13 @@ export default function Teams(){
 
                         <li>João Coelho(Stall) vs Júlia Costa(Incin e Rilla)</li>
 
-                        <li>Afonso Cunha(VIVILLON!!!!!!!!) vs Filippo Taffarello(Sand)</li>
+                        <li>Afonso Cunha(Zero to Hero) vs Filippo Taffarello(Sand)</li>
 
-                        <li>Matilde Coelho(Dance Moth) vs Prabhnoor kaur(Stall)</li>
+                        <li>Matilde Coelho(Dance Moth) vs Prabhnoor kaur(Sand)</li>
 
-                        <li>Antonio Rodrigues(2-2-2) vs Pedro Valério(Sun)</li>
+                        <li>Antonio Rodrigues(Stall) vs Pedro Valério(Sun)</li>
 
-                        <li>Maria Sequeira(Defiant Ap) vs António Santos(Muk/Smeargle aka Super Toxic Team)</li>
-
+                        <li>Maria Sequeira(Defiant Ap) vs Bernardo Carvalho (VIVILLON!!!!!!!!)</li>
                     </ul>
                     <p>
                 Clique aqui para ver as teams: <Link to="/" >Teams</Link>

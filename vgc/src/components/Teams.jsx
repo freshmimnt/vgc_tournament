@@ -7,7 +7,6 @@ export default function Teams(){
                 <h1>Torneio Pokémon/Pokémon Tournament</h1>
                 <hr />
                 <h2>Equipas/Teams</h2>
-
                 <ul>
                     <li>
                         <h3>Sun</h3>
@@ -78,6 +77,9 @@ export default function Teams(){
                         <h3>Big Guy</h3>
                         <p>Paste: https://pokepast.es/5c4073a0d3030102</p>
                         <p>Rental: BNNNNP</p>
+                    </li>
+                    <li>
+                        
                     </li>
                 </ul>
 
